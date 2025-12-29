@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi there, I'm Eduardo 👋
 
-<!--
-**CosmicLM/CosmicLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/edusouzalima">
+  <img align="right" width="180" src="me.jpg" alt="Eduardo de Souza Lima" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+</a>
 
-Here are some ideas to get you started:
+**Quantum Software Developer | Software Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer based in Utah with a passion for bridging the gap between classical and quantum computing. Currently, I am focused on designing and verifying quantum circuits using Python & Qiskit.
+
+- 🔭 **I’m currently working on:** Proving functionality of quantum circuits.
+- 🇧🇷 **Background:** Originally from Brazil, now building in the US.
+- 🌱 **I’m currently learning:** Rust & System Architecture.
+- 🐧 **Linux:** Daily driving Manjaro with Hyprland.
+
+---
+
+### 🛠️  The Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Learning-orange?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🚀  Featured Projects
+
+| **Project** | **Description** |
+| :--- | :--- |
+| **⚛️ Quantum Circuits** | *(Link this to your repo)* <br> Python implementations verifying quantum algorithms. |
+| **✅ PyTo-Do** | *(Link to PyTo-Do)* <br> A CLI-based task manager built in Python. |
+| **🧬 GEDStats** | *(Link to GEDStats)* <br> Family history statistics analyzer (Rust). |
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/edusouzalima">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cosmiclm.com">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
