@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
 <a href="https://linkedin.com/in/edusouzalima">
-  <img align="right" width="180" src="me.jpg" alt="Eduardo de Souza Lima" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+  <img align="right" width="180" src="portrait.png" alt="Eduardo de Souza Lima" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
 </a>
 
 **Quantum Software Developer | Software Engineering Student**
