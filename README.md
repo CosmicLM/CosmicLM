@@ -37,10 +37,6 @@ I am a developer based in Utah with a passion for bridging the gap between class
 <br>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CosmicLM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 
 <p align="center">
   <a href="https://linkedin.com/in/edusouzalima">
@@ -50,3 +46,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CosmicLM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
