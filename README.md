@@ -31,7 +31,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
 | **Project** | **Description** |
 | :--- | :--- |
 | **⚛️ Quantum Circuits** | *[quantum-projects](https://github.com/CosmicLM/quantum-projects/)* <br> Python implementations verifying quantum algorithm |
-| **✅ PyTo-Do** | *(Link to PyTo-Do)* <br> A CLI-based task manager built in Python. |
+| **✅ PyTo-Do** | *[PyTo-Do](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
 | **🧬 GEDStats** | *(Link to GEDStats)* <br> Family history statistics analyzer (Rust). |
 
 <br>
