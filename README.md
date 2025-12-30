@@ -32,7 +32,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
 | :--- | :--- |
 | **⚛️ Quantum Circuits** | *[quantum-projects](https://github.com/CosmicLM/quantum-projects/)* <br> Python implementations verifying quantum algorithm |
 | **✅ PyTo-Do** | *[PyTo-Do](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
-| **🧬 GEDStats** | *(Link to GEDStats)* <br> Family history statistics analyzer (Rust). |
+| **🧬 GEDStats** | *[GEDStats](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
 
 <br>
 
