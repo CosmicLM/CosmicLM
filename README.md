@@ -47,6 +47,4 @@ I am a developer based in Utah with a passion for bridging the gap between class
   </a>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CosmicLM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
