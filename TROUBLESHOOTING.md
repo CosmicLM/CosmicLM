@@ -5,13 +5,13 @@
 **Date:** [YYYY-MM-DD]
 
 ### 1. Observation
-* **What I expect:** (e.g., A perfect circle sphere)
-* **What I see:** (e.g., A squashed, oval-shaped sphere)
-* **Error Messages:** (If any appear in the console)
+* **What I expect:** I expect a perfect circle sphere
+* **What I see:** A squashed, oval-shaped sphere
+* **Error Messages:** If any appear in the console
 
 ### 2. Hypothesis
 * *Why do I think this is happening?*
-* (e.g., The camera aspect ratio doesn't match the renderer's size.)
+* The camera aspect ratio doesn't match the renderer's size.
 
 ### 3. Investigation & Experiments
 * **Test A:** Log the window dimensions.
