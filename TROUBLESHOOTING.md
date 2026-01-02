@@ -1,6 +1,6 @@
 # Engineering Log
 
-## Issue #[Number]: [Short Description]
+## Issue #[1]: [Oval Shaped Bloch Sphere]
 **Status:** [Open / Resolved]
 **Date:** [YYYY-MM-DD]
 
