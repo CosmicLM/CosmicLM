@@ -26,6 +26,53 @@ I am a developer based in Utah with a passion for bridging the gap between class
 
 ---
 
+## 🛠️ Engineering Principles
+
+<details>
+<summary><b>Git Commit Guidelines (Conventional Commits)</b></summary>
+
+I follow these standards to ensure a clean, readable, and professional version history:
+
+* **feat:** A new feature (correlates to MINOR in semantic versioning)
+* **fix:** A bug fix (correlates to PATCH)
+* **docs:** Documentation only changes
+* **style:** Formatting, missing semi-colons, etc; no code change
+* **refactor:** A code change that neither fixes a bug nor adds a feature
+* **test:** Adding missing tests or correcting existing tests
+* **chore:** Updating build tasks, package manager configs, etc
+
+</details>
+
+<details>
+<summary><b>AI-Assisted Coding Guidelines</b></summary>
+
+To ensure I am building deep intuition and muscle memory while using AI tools, I follow these self-imposed constraints:
+
+#### 1. Logic Draft
+* **Plain English Only:** Describe *what* happens, not *how*. No code yet.
+* **One Step, One Line:** Break big tasks into single, atomic actions.
+* **Visualize Output:** Write down exactly what the final result should look like.
+
+#### 2. Gap Analysis
+* **Find the Unknowns:** Mark the specific steps I don't know how to code yet.
+* **Identify the Type:** Is it a logic problem (math) or a syntax problem (grammar)?
+* **Refine the Question:** Formulate specific questions for gaps (e.g., "How to sort a list").
+
+#### 3. Constraint
+* **"No Code" Rule:** Tell AI: "Do not write the script. Explain the concept."
+* **Snippets Only:** Ask for generic syntax examples, not the exact solution.
+* **Ask Why:** Request the reasoning behind the solution to build intuition.
+
+#### 4. Implementation
+* **Type Manually:** Never copy-paste. Build the muscle memory.
+* **Rename Variables:** Use my own variable names to ensure I understand the logic flow.
+* **Self-Comment:** Write comments in my own words explaining each block of code.
+
+</details>
+
+---
+
+
 ### 🚀  Featured Projects
 
 | **Project** | **Description** |
