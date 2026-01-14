@@ -89,9 +89,6 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
   <a href="https://linkedin.com/in/edusouzalima">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://cosmiclm.com">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 <div align="center">
