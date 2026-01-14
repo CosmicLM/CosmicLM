@@ -96,7 +96,5 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CosmicLM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CosmicLM=CosmicLM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
