@@ -8,14 +8,12 @@
 
 I am a developer based in Utah with a passion for bridging the gap between classical and quantum computing. Currently, I am focused on designing and verifying quantum circuits using Python & Qiskit.
 
-- 🔭 **I’m currently working on:** Proving functionality of quantum circuits.
-- 🇧🇷 **Background:** Originally from Brazil, now building in the US.
-- 🌱 **I’m currently learning:** Rust & System Architecture.
-- 🐧 **Linux:** Daily driving Manjaro with Hyprland.
+- 🔭 **I’m currently working on:** Anecho, an error mitigation library as my capstone, and HyprAI, a Jarvis-like system integrated assistant
+- 🇧🇷 **Background:** Originally from Brazil, Galician Heritage, living and building in the United States
+- 🌱 **I’m currently learning:** Rust, AI integration, Quantum Mechanics Error Mitigation
+- 🐧 **Linux:** Manjaro Linux
 
 ---
-
-### 🛠️  The Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -73,13 +71,15 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 ---
 
 
-### 🚀  Featured Projects
+### Featured Projects
 
 | **Project** | **Description** |
 | :--- | :--- |
-| **⚛️ Quantum Circuits** | [View Code](https://github.com/CosmicLM/quantum-projects) <br> Python implementations verifying quantum algorithm |
-| **✅ PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
-| **🧬 GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
+| **Quantum Circuits** | [View Code](https://github.com/CosmicLM/quantum-projects) <br> Python implementations verifying quantum algorithm |
+| **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
+| **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
+| **Anech** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An Error Mitigation Engine library for Quantum Computers  
+
 
 <br>
 
