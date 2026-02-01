@@ -78,7 +78,7 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 | **Quantum Circuits** | [View Code](https://github.com/CosmicLM/quantum-projects) <br> Python implementations verifying quantum algorithm |
 | **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
 | **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
-| **Anech** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An Error Mitigation Engine library for Quantum Computers  
+| **Anecho** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An Error Mitigation Engine library for Quantum Computers  
 
 
 <br>
