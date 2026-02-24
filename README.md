@@ -10,7 +10,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
 
 - 🔭 **I’m currently working on:** Anecho, an error mitigation library as my capstone, and HyprAI, a Jarvis-like system integrated assistant
 - 🇧🇷 **Background:** Originally from Brazil, Galician Heritage, living and building in the United States
-- 🌱 **I’m currently learning:** Rust, AI integration, Quantum Mechanics Error Mitigation
+- 🌱 **I’m currently learning:** Rust, AI integration, Quantum Mechanics Error Mitigation, and Physics
 - 🐧 **Linux:** Manjaro Linux
 
 ---
