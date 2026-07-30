@@ -8,10 +8,10 @@
 
 I am a developer based in Utah with a passion for bridging the gap between classical and quantum computing. Currently, I am focused on designing and verifying quantum circuits using Python & Qiskit.
 
-- 🔭 **I’m currently working on:** Anecho, an error mitigation library as my capstone, and HyprAI, a Jarvis-like system integrated assistant
-- 🇧🇷 **Background:** Originally from Brazil, Bahia, of Galician Descent, studying and building in the United States
+- 🔭 **I’m currently working on:** Anecho, an error mitigation library as my capstone, and Florinda AI, a Jarvis-like system integrated assistant
+- 🇧🇷 **Background:** Originally from Brazil, Bahia, studying and building in the United States at Ensign College
 - 🌱 **I’m currently learning:** Rust, AI integration, Java, Quantum Mechanics Error Mitigation, and Physics
-- 🐧 **Linux:** Manjaro Linux
+- 🐧 **Linux:** Manjaro Linux + Hyprland
 
 ---
 
