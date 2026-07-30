@@ -76,10 +76,12 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 
 | **Project** | **Description** |
 | :--- | :--- |
+| **Florinda-AI** | *[View Code](https://github.com/CosmicLM/florinda-ai)* <br> My Open Source Quantum Jarvis-like Assistant
 | **Quantum Circuits** | [View Code](https://github.com/CosmicLM/quantum-projects) <br> Python implementations verifying quantum algorithm |
 | **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
 | **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
 | **Anecho** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An Error Mitigation Engine library for Quantum Computers  
+
 
 
 <br>
