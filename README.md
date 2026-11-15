@@ -1,7 +1,7 @@
 ### Hi there, I'm Souza
 
 <a href="https://linkedin.com/in/edusouzalima">
-  <img align="right" width="180" src="qubit.png" alt="Eduardo de Souza Lima" />
+  <img align="right" width="180" src="qubit.png" alt="Bloch sphere" />
 </a>
 
 **Quantum Software Developer | Software Engineering Student**
@@ -10,7 +10,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
 
 - **I’m currently working on:** Anecho, an error mitigation library as my capstone, and Florinda AI, a Jarvis-like system integrated assistant
 - **Background:** Originally from Brazil, Bahia, studying and building in the United States at Ensign College
-- **I’m currently learning:** Rust, AI integration, Java, Quantum Mechanics Error Mitigation, and Physics
+- **I’m currently learning:** Rust, AI integration, Java, quantum error mitigation (ZNE), and physics
 - **Linux:** Manjaro Linux + Hyprland
 
 ---
@@ -76,10 +76,10 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 
 | **Project** | **Description** |
 | :--- | :--- |
-| **Quantum Circuits** | *[View Code](https://github.com/CosmicLM/quantum-projects)* <br> Python implementations verifying quantum algorithms. |
-| **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
-| **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
 | **Anecho** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An error mitigation engine library for quantum computers. |
+| **Quantum Circuits** | *[View Code](https://github.com/CosmicLM/quantum-projects)* <br> Python implementations verifying quantum algorithms. |
+| **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A task manager built in Python, with a GUI and a CLI. |
+| **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
 
 
 
@@ -90,6 +90,9 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 <p align="center">
   <a href="https://linkedin.com/in/edusouzalima">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://efsouzalima.dev">
+    <img src="https://img.shields.io/badge/Website-efsouzalima.dev-6929C4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
