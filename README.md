@@ -1,7 +1,7 @@
 ### Hi there, I'm Souza
 
 <a href="https://linkedin.com/in/edusouzalima">
-  <img align="right" width="180" src="qubit.jpeg" alt="Eduardo de Souza Lima" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+  <img align="right" width="180" src="qubit.png" alt="Eduardo de Souza Lima" />
 </a>
 
 **Quantum Software Developer | Software Engineering Student**
@@ -20,7 +20,7 @@ I am a developer based in Utah with a passion for bridging the gap between class
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-Learning-orange?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
@@ -76,10 +76,10 @@ To ensure I am building deep intuition and muscle memory while using AI tools, I
 
 | **Project** | **Description** |
 | :--- | :--- |
-| **Quantum Circuits** | [View Code](https://github.com/CosmicLM/quantum-projects) <br> Python implementations verifying quantum algorithm |
+| **Quantum Circuits** | *[View Code](https://github.com/CosmicLM/quantum-projects)* <br> Python implementations verifying quantum algorithms. |
 | **PyTo-Do** | *[View Code](https://github.com/CosmicLM/PyTo-Do)* <br> A CLI-based task manager built in Python. |
 | **GEDStats** | *[View Code](https://github.com/CosmicLM/GEDStats)* <br> Family history statistics analyzer (Rust). |
-| **Anecho** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An Error Mitigation Engine library for Quantum Computers  
+| **Anecho** | *[View Code](https://github.com/CosmicLM/anecho)* <br> An error mitigation engine library for quantum computers. |
 
 
 
